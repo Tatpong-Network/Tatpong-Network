@@ -39,16 +39,6 @@
 
 <br />
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Github%20Activity-FF0000?style=for-the-badge&labelColor=000000" height="30" />
-</h3>
-
-<div align="center">
-  <!-- เปลี่ยนสี Stats เป็นสีแดง Huawei -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatpong-Network&show_icons=true&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=FFFFFF&icon_color=FF0000&title_color=FF0000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatpong-Network&layout=compact&hide_title=true&hide_border=true&theme=algolia&bg_color=00000000&text_color=FFFFFF&title_color=FF0000" height="165" />
-</div>
-
 <br />
 
 <div align="center">
