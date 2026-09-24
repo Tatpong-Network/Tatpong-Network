@@ -33,7 +33,8 @@
   <!-- Tools & Languages -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/eNSP-000000?style=for-the-badge&logo=huawei&logoColor=red" />
   <img src="https://img.shields.io/badge/Chinese%20(HSK%202)-000000?style=for-the-badge&logo=googletranslate&logoColor=FF0000" />
 </div>
 
