@@ -1,19 +1,64 @@
-# Network Architecture & Roadmap
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Tatpong+Pongsuwagorn.;Network+Engineer+Intern;Huawei+Certified+(HCIP%2FHCIA);Architecture+%26+Knowledge+Portfolio" alt="Typing SVG" />
 
-> "A clear overview leads to precise solutions. I believe in understanding the big picture before diving into the details."
+  <br />
 
-## 🎯 Overview
-This repository serves as my **Knowledge & Architecture Portfolio**. It is not a code repository, but a structured documentation of my learning journey, network designs, and self-development roadmap as a Network Engineer.
+  <a href="https://www.kku.ac.th/">
+    <img src="https://img.shields.io/badge/Khon%20Kaen%20University-Computer%20%26%20Information%20Science-000000?style=for-the-badge&color=252525&labelColor=FF0000&logoColor=white" alt="KKU" />
+  </a>
 
-## 🗺️ My Skill Architecture
+  <a href="mailto:Tatpong.p@kkumail.com">
+    <img src="https://img.shields.io/badge/Email-Tatpong.p%40kkumail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=252525" alt="Email" />
+  </a>
+  
+  <a href="https://github.com/Tatpong-Network/network-architecture-portfolio">
+    <img src="https://img.shields.io/badge/Architecture%20Portfolio-Network-blue?style=for-the-badge&logo=github&logoColor=white&color=252525&labelColor=FF0000" alt="Portfolio" />
+  </a>
+</div>
 
-The diagram below illustrates my core competencies and how I structure my knowledge to become a well-rounded Network Engineer.
+<br />
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Technical%20Skills-FF0000?style=for-the-badge&labelColor=000000" height="30" />
+</h3>
+
+<!-- กลุ่มที่ 1: Network & Cloud Core -->
+<div align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-000000?style=for-the-badge&logo=huawei&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/OSPF%20%7C%20VLAN-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCTV%2FNVR-000000?style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+<br />
+
+<!-- กลุ่มที่ 2: Tools & Languages -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chinese%20(HSK%202)-000000?style=for-the-badge&logo=googletranslate&logoColor=FF0000" />
+</div>
+
+<br />
+
+<!-- กลุ่มที่ 3: Currently Practicing -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently%20Practicing-Wireshark%20%26%20eNSP%20(Huawei%20ICT)-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+</div>
+
+<br />
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Architecture%20%26%20Roadmap-FF0000?style=for-the-badge&labelColor=000000" height="30" />
+</h3>
+
+<div align="center">
 
 ```mermaid
 graph TD
-    A[Network Engineer] --> B[Network Core]
-    A --> C[Cloud & Infrastructure]
-    A --> D[Security & Wireless]
+    A[Network Engineer] --> B(Network Core)
+    A --> C(Cloud & Infrastructure)
+    A --> D(Security & Wireless)
     
     B --> B1[TCP/IP & Routing]
     B --> B2[OSPF & VLAN]
