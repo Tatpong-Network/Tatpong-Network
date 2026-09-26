@@ -48,23 +48,15 @@
 
 <br />
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Architecture%20%26%20Roadmap-FF0000?style=for-the-badge&labelColor=000000" height="30" />
-</h3>
+<!-- ปุ่มกดไปดู Architecture Diagram -->
+<div align="center">
+  <a href="https://github.com/Tatpong-Network/network-architecture-portfolio">
+    <img src="https://img.shields.io/badge/View%20My%20Architecture%20%26%20Roadmap-Click%20Here-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
-
-```mermaid
-graph TD
-    A[Network Engineer] --> B(Network Core)
-    A --> C(Cloud & Infrastructure)
-    A --> D(Security & Wireless)
-    
-    B --> B1[TCP/IP & Routing]
-    B --> B2[OSPF & VLAN]
-    
-    C --> C1[Huawei Cloud]
-    C --> C2[Virtualization]
-    
-    D --> D1[Firewall]
-    D --> D2[WLAN]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer&text=A%20clear%20overview%20leads%20to%20precise%20solutions&fontSize=20&fontColor=ffffff&fontAlign=50" />
+</div>
