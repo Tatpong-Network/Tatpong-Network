@@ -1,3 +1,13 @@
+# Network Architecture & Roadmap
+
+> "A clear overview leads to precise solutions. I believe in understanding the big picture before diving into the details."
+
+## 🎯 Overview
+This repository serves as my **Knowledge & Architecture Portfolio**. It is not a code repository, but a structured documentation of my learning journey, network designs, and self-development roadmap as a Network Engineer.
+
+## 🗺️ My Skill Architecture
+
+```mermaid
 graph LR
     A[Network Engineer] --> B[Network Core]
     A --> C[Cloud & Infrastructure]
