@@ -54,6 +54,15 @@
 
 <div align="center">
 
+## 🚀 My Development Roadmap (Short & Long Term)
+
+| Phase | Timeline | Goals & Objectives | Action Plan |
+| :--- | :--- | :--- | :--- |
+| **Short-term** | Next 3 Months | Obtain **HCIA-Security** & **HCIA-WLAN** certifications. | Self-study and pass exams. Practice hands-on labs using **eNSP** and **Wireshark**. Document all topologies and configurations in this portfolio. |
+| **Mid-term** | 6 Months | Gain practical experience and expand network knowledge. | Secure a **Cooperative Education Internship** in a professional IT environment (e.g., Huawei Laos). Apply theoretical knowledge to real-world scenarios. |
+| **Long-term** | 12 Months | Obtain **HCIP-Datacom** certification & prepare for expert level. | Pass the HCIP-Datacom exam. Deepen knowledge in enterprise network design. Prepare foundation for **HCIE-level** certification. |
+
+
 ```mermaid
 graph TD
     A[Network Engineer] --> B(Network Core)
