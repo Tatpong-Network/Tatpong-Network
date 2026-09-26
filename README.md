@@ -21,6 +21,10 @@
 <h3 align="center">
   <img src="https://img.shields.io/badge/Technical%20Skills-FF0000?style=for-the-badge&labelColor=000000" height="30" />
 </h3>
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Currently%20Practicing-Wireshark%20%26%20eNSP%20(Huawei%20ICT)-000000?style=for-the-badge&logo=huawei&logoColor=red" alt="Currently Practicing" />
+</div>
 
 <div align="center">
   <!-- Network & Cloud Skills -->
