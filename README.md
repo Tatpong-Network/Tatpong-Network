@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Tatpong+Pongsuwagorn.;Network+Engineer+Intern;Huawei+Certified+(HCIP%2FHCIA);Architecture+%26+Knowledge+Portfolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Tatpong+Pongsuwagorn.;Network+Architecture+%26+Design;Enterprise+Topology+%7C+OSPF+%26+VLAN;Huawei+Certified+(HCIP%2FHCIA);IT+Support+%26+Infrastructure" alt="Typing SVG" />
 
   <br />
 
@@ -14,40 +14,4 @@
   <a href="https://github.com/Tatpong-Network/network-architecture-portfolio">
     <img src="https://img.shields.io/badge/Architecture%20Portfolio-Network-blue?style=for-the-badge&logo=github&logoColor=white&color=252525&labelColor=FF0000" alt="Portfolio" />
   </a>
-</div>
-
-<br />
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Technical%20Skills-FF0000?style=for-the-badge&labelColor=000000" height="30" />
-</h3>
-
-<!-- กลุ่มที่ 1: Network & Cloud Core -->
-<div align="center">
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-000000?style=for-the-badge&logo=huawei&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/OSPF%20%7C%20VLAN-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCTV%2FNVR-000000?style=for-the-badge&logo=security&logoColor=white" />
-</div>
-
-<br />
-
-<!-- กลุ่มที่ 2: Tools & Languages -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chinese%20(HSK%202)-000000?style=for-the-badge&logo=googletranslate&logoColor=FF0000" />
-</div>
-
-<br />
-
-<!-- กลุ่มที่ 3: Currently Practicing -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Practicing-Wireshark%20%26%20eNSP%20(Huawei%20ICT)-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer&text=A%20clear%20overview%20leads%20to%20precise%20solutions&fontSize=20&fontColor=ffffff&fontAlign=50" />
 </div>
