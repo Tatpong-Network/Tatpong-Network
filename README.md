@@ -63,17 +63,22 @@
 | **Long-term** | 12 Months | Obtain **HCIP-Datacom** certification & prepare for expert level. | Pass the HCIP-Datacom exam. Deepen knowledge in enterprise network design. Prepare foundation for **HCIE-level** certification. |
 
 
+## 🗺️ My Skill Architecture
+
 ```mermaid
-graph TD
-    A[Network Engineer] --> B(Network Core)
-    A --> C(Cloud & Infrastructure)
-    A --> D(Security & Wireless)
+graph LR
+    A[Network Engineer] --> B[Network Core]
+    A --> C[Cloud & Infrastructure]
+    A --> D[Security & Wireless]
     
     B --> B1[TCP/IP & Routing]
     B --> B2[OSPF & VLAN]
     
     C --> C1[Huawei Cloud]
     C --> C2[Virtualization]
+    
+    D --> D1[Firewall]
+    D --> D2[WLAN]
     
     D --> D1[Firewall]
     D --> D2[WLAN]
